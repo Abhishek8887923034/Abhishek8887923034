@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhishek Tripathi</h1>
+<h1 align="center">Hi Everyone, I'm Abhishek Tripathi</h1>
 <h3 align="center">DevOps & Infrastructure Engineer | AWS | Docker | Kubernetes</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 Currently working on **Infrastructure & Storage (Banking Domain)**
 - 🌱 Learning **DevOps (Docker, Kubernetes, CI/CD, Terraform)**
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,git,terraform,bash,nginx" />
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🔹 Docker + Nginx Deployment
 - Deployed static website using Docker & Nginx  
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek8887923034&show_icons=true&theme=radical)
 
@@ -42,13 +42,15 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek8887923034&theme=radical)
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 
-- 💼 LinkedIn: (add your link)
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek8887923034
+- 📺 YouTube: https://www.youtube.com/@abhishek.tripathi.devops
 - 📧 Email: abhishektripathi.23@outlook.com
+
