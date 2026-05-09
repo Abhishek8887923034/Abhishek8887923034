@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone, I'm Abhishek Tripathi</h1>
-<h3 align="center">DevOps & Infrastructure Engineer | AWS | Docker | Kubernetes</h3>
+<h3 align="center">cloud & Infrastructure Engineer | AWS | Docker | Kubernetes</h3>
 
 <p align="center">
 Building skills today to create impact tomorrow 
